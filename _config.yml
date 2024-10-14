@@ -21,7 +21,7 @@ repository               : "amadorclagunas/amadorclagunas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "Amador C Lagunas"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in the pNEURO Lab at the University of Michigan"
