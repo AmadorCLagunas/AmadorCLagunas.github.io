@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Amador C Lagunas"
+title                    : "Amador Lagunas"
 title_separator          : "-"
 name                     : &name "Amador C Lagunas"
 description              : #&description "PhD Student in the pNEURO LAb at the University of Michigan"
