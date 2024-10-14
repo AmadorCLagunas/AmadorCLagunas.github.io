@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Amador C Lagunas"
 title_separator          : "-"
 name                     : &name "Amador C Lagunas"
-description              : &description "PhD Student in the pNEURO LAb at the University of Michigan"
+description              : #&description "PhD Student in the pNEURO LAb at the University of Michigan"
 url                      : https://amadorclagunas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amadorclagunas/academicpages.github.io"
+repository               : "amadorclagunas/amadorclagunas.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD Student in the pNEURO LAb at the University of Michigan"
+  location         : "Ann Arbor, Michigan"
   employer         : "The University of Michigan"
   uri              : # URL
   email            : "lagunas@umich.edu" 
